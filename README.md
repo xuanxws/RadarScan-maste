@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RadarScan
 这是Android一个雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示
 
@@ -8,3 +9,7 @@
 ![这里写图片描述](http://img.blog.csdn.net/20160505001804763)
 
 ![这里写图片描述](http://img.blog.csdn.net/20160505002654525)
+=======
+# RadarScan-maste
+仿qq实现扫描附近的人
+>>>>>>> 05f1978f02945d6cc3ed3375f8a385213298db22
