@@ -3,6 +3,7 @@ package mr_immortalz.com.modelqq.custom;
 import android.animation.ObjectAnimator;
 import android.content.Context;
 import android.util.AttributeSet;
+import android.util.Log;
 import android.util.SparseArray;
 import android.view.View;
 import android.view.ViewGroup;
@@ -224,6 +225,7 @@ public class RadarViewGroup extends ViewGroup implements RadarView.IScanningList
             object.setPortraitIcon(mDatas.get(position).getPortraitId());
             ObjectAnimator.ofFloat(object, "scaleX", 2f).setDuration(300).start();
             ObjectAnimator.ofFloat(object, "scaleY", 2f).setDuration(300).start();
+            Log.i("test","---111111");
         }
     }
 
