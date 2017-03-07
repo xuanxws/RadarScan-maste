@@ -225,7 +225,7 @@ public class RadarViewGroup extends ViewGroup implements RadarView.IScanningList
             object.setPortraitIcon(mDatas.get(position).getPortraitId());
             ObjectAnimator.ofFloat(object, "scaleX", 2f).setDuration(300).start();
             ObjectAnimator.ofFloat(object, "scaleY", 2f).setDuration(300).start();
-            Log.i("test","---111111");
+            Log.i("test","---11111");
         }
     }
 
