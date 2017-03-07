@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\demo\\RadarScan-master\\zhy_custom_viewgroup02\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\demo\\RadarScan-master\\zhy_custom_viewgroup02\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\demo\\RadarScan-master\\zhy_custom_viewgroup02\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "G:\\demo\\RadarScan-master\\zhy_custom_viewgroup02\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "G:\\demo\\RadarScan-master\\zhy_custom_viewgroup02\\build\\intermediates\\res\\merged\\debug\\layout\\test2.xml",
+        "source": "G:\\demo\\RadarScan-master\\zhy_custom_viewgroup02\\src\\main\\res\\layout\\test2.xml"
+    }
+]
